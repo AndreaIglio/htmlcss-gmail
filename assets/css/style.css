@@ -1,0 +1,89 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-image: url('../img/backgroundimage.jpg');
+}
+
+.container {
+  margin:auto;
+  width: 65%;
+  height: auto;
+}
+
+/* HEADER */
+
+
+#h2_header {
+  display: inline;
+  color: white;
+}
+
+
+
+/* /HEADER */
+
+
+/* MAIN MIDDLE*/
+
+#middle_button {
+  border-radius: 20%
+}
+
+#middle_p {
+  font-size: 25px;
+  font-weight: 400;
+  color: white;
+  display: block;
+}
+
+#middle_number {
+  display: inline;
+  border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      padding: 8px;
+      background: yellow;
+      border: 2px solid #666;
+      color: black;
+      text-align: center;
+}
+
+/* /MAIN MIDDLE*/
+
+
+/* MAIN BOTTOM */
+
+.email_div, .email_div1, .email_div2, .email_div3, .email_div4{
+  background-color: #E5E8E8;
+  border: 1.5px solid black;
+}
+
+.email_div2 {
+  background-color: white;
+}
+
+#email_object {
+font-weight: 700;
+
+}
+/* /MAIN BOTTOM */
+
+
+/* FOOTER */
+
+.footer {
+  text-align: center;
+}
+
+#h2_footer {
+  font-weight: 700;
+  color: white;
+  display: inline;
+}
+
+#footer_text {
+  color: white;
+  display: inline;
+  font-style: oblique;
+  font-weight: 700;
+}
+/* /FOOTER */
